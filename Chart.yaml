@@ -1,0 +1,7 @@
+apiVersion: v2
+name: heart-risk-app
+description: A Streamlit app for Heart Disease Prediction
+type: application
+version: 0.1.0
+appVersion: "1.0"
+
